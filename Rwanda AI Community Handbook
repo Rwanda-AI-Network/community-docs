@@ -1,0 +1,11 @@
+/docs
+ ├── README.md               # Landing page (community intro)
+ ├── CHARTER.md              # Vision, mission, values
+ ├── GUIDELINES.md           # Community rules
+ ├── ONBOARDING.md           # For new members
+ ├── ROADMAP.md              # 2025 roadmap
+ ├── LEARNING_RESOURCES.md   # AI learning path
+ ├── PROJECTS.md             # Open-source project docs
+ ├── CONTRIBUTING.md         # How to contribute
+ ├── CODE_OF_CONDUCT.md      # Respect policy
+ └── ARCHITECTURE.md         # Project architecture (RAG bot, etc.)
